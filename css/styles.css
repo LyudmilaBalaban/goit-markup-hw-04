@@ -335,7 +335,7 @@ button {
 
 .team {
   padding-top: 94px;
-  padding-bottom: 50px;
+  padding-bottom: 94px;
 }
 
 .team-list {
@@ -398,6 +398,8 @@ button {
 
 .clients {
   background-color: var(--primery-white-color);
+  padding-top: 94px;
+  padding-bottom: 94px;
 }
 
 .clients-title {
@@ -406,13 +408,12 @@ button {
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--primery-text-color);
-  padding-top: 94px;
 }
 
 .clients-list {
   display: flex;
   margin-top: 50px;
-  padding-bottom: 94px;
+
   gap: 30px;
   align-items: center;
   justify-content: center;
